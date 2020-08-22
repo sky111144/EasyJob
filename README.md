@@ -1,2 +1,2 @@
-# Easyob
+# EasyJob
 Find the job easily
